@@ -1,4 +1,4 @@
-![MasterHead](https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=1920&h=1080&ar=1.91%3A1)
+
 # 💫 About Me:
 - 🌱 I’m currently learning **React,typescript**<br><br>- 👯 I’m looking to collaborate on **Node.js Projects**<br><br>- 💬 Ask me about **Node.js ,javascript**<br><br>- 📫 How to reach me **soorajsureshcc@gmail.com**<br>
 
